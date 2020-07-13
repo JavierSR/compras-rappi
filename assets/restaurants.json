@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "KFC",
+        "color": "#e0100a",
+        "img": "https://www.ccviva.com/sites/default/files/kfc_2.png",
+        "menu": [
+            {
+                "price": 10000,
+                "description": "Combo 1"
+            },
+            {
+                "price": 20000,
+                "description": "Combo 2"
+            },
+            {
+                "price": 30000,
+                "description": "Combo 3"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Restaurante tradicional",
+        "color": "#FFE800",
+        "img": "https://previews.123rf.com/images/sergeypykhonin/sergeypykhonin1707/sergeypykhonin170700052/81892309-logo-del-restaurante-icono-o-s%C3%ADmbolo-para-el-restaurante-del-men%C3%BA-del-dise%C3%B1o-la-cantina-o-el-caf%C3%A9-ilustraci%C3%B3n-vect.jpg",
+        "menu": [
+            {
+                "price": 8000,
+                "description": "Desayuno"
+            },
+            {
+                "price": 10000,
+                "description": "Almuerzo"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Casa del kumis",
+        "color": "#43C900",
+        "img": "https://www.ccviva.com/sites/default/files/casakumis.png",
+        "menu": [
+            {
+                "price": 3000,
+                "description": "empanada"
+            },
+            {
+                "price": 2000,
+                "description": "Avena"
+            },
+            {
+                "price": 2000,
+                "description": "Kumis"
+            },
+            {
+                "price": 2500,
+                "description": "Hojaldre"
+            },
+            {
+                "price": 1500,
+                "description": "Masato"
+            },
+            {
+                "price": 20000,
+                "description": "Torta"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Presto",
+        "color": "#f52810",
+        "img": "https://pbs.twimg.com/profile_images/1278094056955011078/q8xGOO2D_400x400.jpg",
+        "menu": [
+            {
+                "price": 8000,
+                "description": "Hamburguesa clásica"
+            },
+            {
+                "price": 16000,
+                "description": "Hamburguesa especial"
+            },
+            {
+                "price": 7000,
+                "description": "Malteada"
+            },
+            {
+                "price": 5000,
+                "description": "Papas"
+            },
+            {
+                "price": 20000,
+                "description": "Hamburguesa especial con papas y gaseosa"
+            }
+        ]
+    },
+]
